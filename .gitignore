@@ -1,0 +1,4 @@
+.idea/
+*/node_modules
+Server/users.db
+.DB_Store
