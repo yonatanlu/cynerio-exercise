@@ -1,0 +1,15 @@
+.users-table {
+    width: 100%;
+}
+
+.users-table th,
+.users-table td {
+    border-bottom: 1px solid #ddd; /* Gray border between rows */
+    padding: 8px;
+    text-align: left;
+}
+
+.delete-icon {
+    width : 16px;
+    height : 16px;
+}
